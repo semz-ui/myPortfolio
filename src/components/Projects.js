@@ -89,7 +89,7 @@ const Projects = () => {
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
-                href="https://628ccb3da9d9f003356fd975--merry-axolotl-0438f4.netlify.app/"
+                href="https://merry-axolotl-0438f4.netlify.app/"
               >
                 <button className="project-btn">Live</button>
               </a>
