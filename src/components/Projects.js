@@ -87,10 +87,16 @@ const Projects = () => {
             <h1>Amazon clone</h1>
             <p></p>
             <div className="btn-wrapper">
-              <a className="project-btn-a" href="#">
+              <a
+                className="project-btn-a"
+                href="https://628ccb3da9d9f003356fd975--merry-axolotl-0438f4.netlify.app/"
+              >
                 <button className="project-btn">Live</button>
               </a>
-              <a className="project-btn-a" href="#">
+              <a
+                className="project-btn-a"
+                href="https://github.com/semz-ui/Amazon-clone"
+              >
                 <button className="project-btn">Github</button>
               </a>
             </div>
