@@ -3,7 +3,7 @@ import project2 from "./Images/toonpunk.png";
 import project3 from "./Images/motivate.png";
 import project4 from "./Images/amazon.png";
 
-const Projects = () => {
+function Projects() {
   return (
     <section id="projects" className="project-section">
       <h1 className="project-section-h1">Projects</h1>
@@ -108,6 +108,6 @@ const Projects = () => {
       </div>
     </section>
   );
-};
+}
 
 export default Projects;

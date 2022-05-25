@@ -7,10 +7,9 @@ import { FaReact } from "react-icons/fa";
 import { FaGitAlt } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { SiHeroku, SiNetlify, SiVisualstudiocode } from "react-icons/si";
-import { SiTailwindcss } from "react-icons/si";
 import { BsBootstrapFill } from "react-icons/bs";
 import { FiMail } from "react-icons/fi";
-const About = () => {
+function About() {
   return (
     <>
       <section className="about--cnt" id="about">
@@ -65,6 +64,6 @@ const About = () => {
       </section>
     </>
   );
-};
+}
 
 export default About;

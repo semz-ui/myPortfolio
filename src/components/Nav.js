@@ -4,7 +4,7 @@ import { MdClose } from "react-icons/md";
 import { FiMenu } from "react-icons/fi";
 import { FiMail } from "react-icons/fi";
 
-const Nav = () => {
+function Nav() {
   const [navbarOpen, setNavbarOpen] = useState(false);
 
   const handleToggle = () => {
@@ -41,6 +41,11 @@ const Nav = () => {
             </a>
           </li>
           <li className="nav-li">
+            <a className="navbar-a" href="#certificate">
+              Certificate
+            </a>
+          </li>
+          <li className="nav-li">
             <a
               className="  contact-btn-a"
               href="mailto:michaeltimilehin36@gmail.com? subject=message from portfolio"
@@ -54,6 +59,6 @@ const Nav = () => {
       </nav>
     </header>
   );
-};
+}
 
 export default Nav;

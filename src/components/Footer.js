@@ -5,7 +5,7 @@ import { FaGithub } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { IconContext } from "react-icons";
 
-const Footer = () => {
+function Footer() {
   return (
     <footer>
       <div className="links-cnt">
@@ -48,6 +48,6 @@ const Footer = () => {
       </div>
     </footer>
   );
-};
+}
 
 export default Footer;

@@ -7,7 +7,7 @@ import { FaGithub } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { IconContext } from "react-icons";
 
-const Hero = () => {
+function Hero() {
   return (
     <IconContext.Provider value={{ className: "media-icons" }}>
       <section id="home" className="hero--cnt">
@@ -36,6 +36,6 @@ const Hero = () => {
       </section>
     </IconContext.Provider>
   );
-};
+}
 
 export default Hero;
