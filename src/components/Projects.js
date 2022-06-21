@@ -84,12 +84,12 @@ function Projects() {
         </div>
         <div className="project-wrapper row-reverse">
           <div className="project-description">
-            <h1>Amazon clone</h1>
+            <h1>Amazon clone Mern Stack</h1>
             <p></p>
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
-                href="https://merry-axolotl-0438f4.netlify.app/"
+                href="https://amazonclonemernappdemo.herokuapp.com/"
               >
                 <button className="project-btn">Live</button>
               </a>
