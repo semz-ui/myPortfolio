@@ -16,6 +16,8 @@ function Certificate() {
               <a
                 className="project-btn-a"
                 href="https://www.udemy.com/certificate/UC-3bdad860-960f-4a6e-b67b-51795df8f19a/"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">Live</button>
               </a>
@@ -33,6 +35,8 @@ function Certificate() {
               <a
                 className="project-btn-a"
                 href="https://www.freecodecamp.org/certification/michaeltimi/responsive-web-design"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">Live</button>
               </a>

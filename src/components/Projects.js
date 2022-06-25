@@ -1,6 +1,6 @@
 import project1 from "./Images/netflix-clone.png";
 import project2 from "./Images/toonpunk.png";
-import project3 from "./Images/motivate.png";
+import project3 from "./Images/Redux mern.png";
 import project4 from "./Images/amazon.png";
 
 function Projects() {
@@ -12,17 +12,25 @@ function Projects() {
         <div className="project-wrapper">
           <div className="project-description">
             <h1>My Netflix Clone</h1>
-            <p></p>
+            <p>
+              {" "}
+              A netflix clone where you can watch trailer videos of movies
+              available
+            </p>
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
                 href="https://netflix-clone-edc64.web.app/"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">Live</button>
               </a>
               <a
                 className="project-btn-a"
                 href="https://github.com/semz-ui/Netflix__clone"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">Github</button>
               </a>
@@ -35,17 +43,21 @@ function Projects() {
         <div className="project-wrapper row-reverse">
           <div className="project-description">
             <h1>Toon Punks</h1>
-            <p></p>
+            <p>A list off some nfts Image</p>
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
                 href="http://toonpunks-demo.herokuapp.com/"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">Live</button>
               </a>
               <a
                 className="project-btn-a"
                 href="https://github.com/semz-ui/Toonpunks"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">Github</button>
               </a>
@@ -61,18 +73,25 @@ function Projects() {
         </div>
         <div className="project-wrapper">
           <div className="project-description">
-            <h1>Motivation Website</h1>
-            <p></p>
+            <h1>Goal Mern Stack</h1>
+            <p>
+              A website which users can set goals for what they want they want
+              to achieve
+            </p>
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
-                href="https://unique-sunburst-b3fd35.netlify.app/"
+                href="https://mikegoals-app.herokuapp.com"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">Live</button>
               </a>
               <a
                 className="project-btn-a"
-                href="https://github.com/semz-ui/frontend"
+                href="https://github.com/semz-ui/goalsbndfront.git"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">github</button>
               </a>
@@ -85,17 +104,21 @@ function Projects() {
         <div className="project-wrapper row-reverse">
           <div className="project-description">
             <h1>Amazon clone Mern Stack</h1>
-            <p></p>
+            <p>An e-commerce mern stack app with the looks of Amazon</p>
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
                 href="https://amazonclonemernappdemo.herokuapp.com/"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">Live</button>
               </a>
               <a
                 className="project-btn-a"
                 href="https://github.com/semz-ui/Amazon-clone"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 <button className="project-btn">Github</button>
               </a>
