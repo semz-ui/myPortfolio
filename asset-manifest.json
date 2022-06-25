@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/myPortfolio/static/css/main.d4bbc849.css",
-    "main.js": "/myPortfolio/static/js/main.be23b98e.js",
+    "main.js": "/myPortfolio/static/js/main.6c64a733.js",
     "static/media/netflix-clone.png": "/myPortfolio/static/media/netflix-clone.03bb963a75222604650c.png",
     "static/media/amazon.png": "/myPortfolio/static/media/amazon.369fad5843560e23d768.png",
     "static/media/toonpunk.png": "/myPortfolio/static/media/toonpunk.c50c06740b0d28415331.png",
-    "static/media/motivate.png": "/myPortfolio/static/media/motivate.56af12936c95fad03a06.png",
     "static/media/udemy cert.jpg": "/myPortfolio/static/media/udemy cert.2521078aea5f90aa5e29.jpg",
     "static/media/freecodecamp.png": "/myPortfolio/static/media/freecodecamp.edbb009cd3ea3f9e8b97.png",
+    "static/media/Redux mern.png": "/myPortfolio/static/media/Redux mern.27139bd4c85cc02f417e.png",
     "static/media/AboutImg.jpg": "/myPortfolio/static/media/AboutImg.2531b38462bdb10a810f.jpg",
     "static/media/ilex.jpg": "/myPortfolio/static/media/ilex.373e3a0bc5d71a89e01b.jpg",
     "index.html": "/myPortfolio/index.html",
     "main.d4bbc849.css.map": "/myPortfolio/static/css/main.d4bbc849.css.map",
-    "main.be23b98e.js.map": "/myPortfolio/static/js/main.be23b98e.js.map"
+    "main.6c64a733.js.map": "/myPortfolio/static/js/main.6c64a733.js.map"
   },
   "entrypoints": [
     "static/css/main.d4bbc849.css",
-    "static/js/main.be23b98e.js"
+    "static/js/main.6c64a733.js"
   ]
 }
