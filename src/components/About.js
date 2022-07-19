@@ -12,8 +12,17 @@ import { FiMail } from "react-icons/fi";
 function About() {
   return (
     <>
-      <section className="about--cnt" id="about">
-        <div className="about-img-cnt">
+      <section
+        className="about--cnt"
+        id="about"
+        data-aos="fade-up"
+        data-aos-duration="3000"
+      >
+        <div
+          className="about-img-cnt"
+          data-aos="zoom-in"
+          data-aos-duration="3000"
+        >
           <img className="about-photo" src={about} alt="about section photo" />
         </div>
         <div className="about--text-cnt">

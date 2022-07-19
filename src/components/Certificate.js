@@ -4,11 +4,20 @@ import project2 from "./Images/freecodecamp.png";
 
 function Certificate() {
   return (
-    <section id="projects" className="project-section">
+    <section
+      id="projects"
+      className="project-section"
+      data-aos="fade-up"
+      data-aos-duration="3000"
+    >
       <h1 className="project-section-h1">Certificate</h1>
       <h2 className="project-section-h2">List of my certificate</h2>
       <div className="projects-cnt">
-        <div className="project-wrapper">
+        <div
+          className="project-wrapper"
+          data-aos="fade-up"
+          data-aos-duration="3000"
+        >
           <div className="project-description">
             <h1>Udemy Certificate</h1>
             <p></p>
@@ -27,7 +36,11 @@ function Certificate() {
             <img className="project-img" src={project1} alt="project 1 image" />
           </div>
         </div>
-        <div className="project-wrapper row-reverse">
+        <div
+          className="project-wrapper row-reverse"
+          data-aos="fade-up"
+          data-aos-duration="3000"
+        >
           <div className="project-description">
             <h1>Freecodecamp Certificate</h1>
             <p></p>

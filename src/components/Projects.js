@@ -5,11 +5,20 @@ import project4 from "./Images/amazon.png";
 
 function Projects() {
   return (
-    <section id="projects" className="project-section">
+    <section
+      id="projects"
+      className="project-section"
+      data-aos="fade-up"
+      data-aos-duration="2000"
+    >
       <h1 className="project-section-h1">Projects</h1>
       <h2 className="project-section-h2">A selection of my projects</h2>
       <div className="projects-cnt">
-        <div className="project-wrapper">
+        <div
+          className="project-wrapper"
+          data-aos="fade-right"
+          data-aos-duration="2000"
+        >
           <div className="project-description">
             <h1>My Netflix Clone</h1>
             <p>
@@ -36,11 +45,19 @@ function Projects() {
               </a>
             </div>
           </div>
-          <div className="project-img-cnt">
+          <div
+            className="project-img-cnt"
+            data-aos="flip-right"
+            data-aos-duration="1000"
+          >
             <img className="project-img" src={project1} alt="project 1 image" />
           </div>
         </div>
-        <div className="project-wrapper row-reverse">
+        <div
+          className="project-wrapper row-reverse"
+          data-aos="fade-left"
+          data-aos-duration="2000"
+        >
           <div className="project-description">
             <h1>Toon Punks</h1>
             <p>A list off some nfts Image</p>
@@ -63,7 +80,11 @@ function Projects() {
               </a>
             </div>
           </div>
-          <div className="project-img-cnt">
+          <div
+            className="project-img-cnt"
+            data-aos="flip-left"
+            data-aos-duration="1000"
+          >
             <img
               className="project-img "
               src={project2}
@@ -71,7 +92,11 @@ function Projects() {
             />
           </div>
         </div>
-        <div className="project-wrapper">
+        <div
+          className="project-wrapper"
+          data-aos="fade-right"
+          data-aos-duration="2000"
+        >
           <div className="project-description">
             <h1>Goal Mern Stack</h1>
             <p>
@@ -97,11 +122,19 @@ function Projects() {
               </a>
             </div>
           </div>
-          <div className="project-img-cnt">
+          <div
+            className="project-img-cnt"
+            data-aos="flip-right"
+            data-aos-duration="1000"
+          >
             <img className="project-img" src={project3} alt="project 3 image" />
           </div>
         </div>
-        <div className="project-wrapper row-reverse">
+        <div
+          className="project-wrapper row-reverse"
+          data-aos="fade-left"
+          data-aos-duration="2000"
+        >
           <div className="project-description">
             <h1>Amazon clone Mern Stack</h1>
             <p>An e-commerce mern stack app with the looks of Amazon</p>
@@ -124,7 +157,11 @@ function Projects() {
               </a>
             </div>
           </div>
-          <div className="project-img-cnt">
+          <div
+            className="project-img-cnt"
+            data-aos="flip-left"
+            data-aos-duration="1000"
+          >
             <img className="project-img" src={project4} alt="project 4 image" />
           </div>
         </div>

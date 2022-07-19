@@ -10,7 +10,12 @@ import { IconContext } from "react-icons";
 function Hero() {
   return (
     <IconContext.Provider value={{ className: "media-icons" }}>
-      <section id="home" className="hero--cnt">
+      <section
+        id="home"
+        className="hero--cnt"
+        data-aos="fade-up"
+        data-aos-duration="3000"
+      >
         <div className="hero-text-cnt">
           <h1 className="name">Hi, I'm Michael</h1>
           <h1 className="job-title">Frontend Web Developer</h1>
