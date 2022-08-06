@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import "./styles.css";
+import "./App.css";
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
 import About from "./components/About";

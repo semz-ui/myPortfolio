@@ -133,6 +133,7 @@ nav {
 .about--text-cnt {
   max-width: 600px;
   min-width: 400px;
+  text-align: left;
 }
 
 .about--text-cnt h1 {

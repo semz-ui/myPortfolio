@@ -1,5 +1,5 @@
 import project1 from "./Images/netflix-clone.png";
-import project2 from "./Images/toonpunk.png";
+import project2 from "./Images/taskify.png";
 import project3 from "./Images/Redux mern.png";
 import project4 from "./Images/amazon.png";
 
@@ -59,12 +59,12 @@ function Projects() {
           data-aos-duration="2000"
         >
           <div className="project-description">
-            <h1>Toon Punks</h1>
-            <p>A list off some nfts Image</p>
+            <h1>Taskify (built using typescript)</h1>
+            <p>A website for setting tasks</p>
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
-                href="http://toonpunks-demo.herokuapp.com/"
+                href="https://mern-typescript.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -72,7 +72,7 @@ function Projects() {
               </a>
               <a
                 className="project-btn-a"
-                href="https://github.com/semz-ui/Toonpunks"
+                href="https://github.com/semz-ui/mern-typescript"
                 target="_blank"
                 rel="noopener noreferrer"
               >

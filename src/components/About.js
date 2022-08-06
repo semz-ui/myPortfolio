@@ -28,13 +28,13 @@ function About() {
         <div className="about--text-cnt">
           <h1>About Me</h1>
           <p className="about-p">
-            Hello, I'm Michael, Enthusiastic Frontend Developer who loves to
-            create beautiful user interfaces. I'm a dedicated individual who
-            loves to accomplish my goals. Some of my most vital skills are
-            communication, problem-solving, and the ability to receive feedback
-            and improve upon it. I'm glad I decided to learn to program. It's
-            taught me how to become resourceful and think outside the box. I've
-            been able to accomplish many things I thought were impossible.
+            Hello, I'm Michael, Enthusiastic Fullstack Developer who loves to
+            create beautiful projects. I'm a dedicated individual who loves to
+            accomplish my goals. Some of my most vital skills are communication,
+            problem-solving, and the ability to receive feedback and improve
+            upon it. I'm glad I decided to learn to program. It's taught me how
+            to become resourceful and think outside the box. I've been able to
+            accomplish many things I thought were impossible.
           </p>
           <a
             href="mailto:michaeltimilehin36@gmail.com? subject=message from portfolio"

@@ -18,7 +18,7 @@ function Hero() {
       >
         <div className="hero-text-cnt">
           <h1 className="name">Hi, I'm Michael</h1>
-          <h1 className="job-title">Frontend Web Developer</h1>
+          <h1 className="job-title">Fullstack Developer</h1>
           <div className="flex-icons">
             <a href="https://www.linkedin.com/in/olotu-michael-936553221/">
               <FaLinkedin />
