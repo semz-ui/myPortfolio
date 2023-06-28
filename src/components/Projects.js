@@ -106,7 +106,7 @@ function Projects() {
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
-                href="https://mikegoals-app.herokuapp.com"
+                href="https://goalsbndfront-d5vp.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
