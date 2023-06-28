@@ -141,7 +141,7 @@ function Projects() {
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
-                href="https://amazonclonemernappdemo.herokuapp.com/"
+                href="https://amazon-clone-ecru-psi.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
