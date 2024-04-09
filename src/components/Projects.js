@@ -1,6 +1,7 @@
 import project1 from "./Images/netflix-clone.png";
-import project2 from "./Images/taskify.png";
+import project2 from "./Images/merce.JPG";
 import project3 from "./Images/Redux mern.png";
+import project3a from "./Images/app.jpeg";
 import project4 from "./Images/amazon.png";
 
 function Projects() {
@@ -59,12 +60,12 @@ function Projects() {
           data-aos-duration="2000"
         >
           <div className="project-description">
-            <h1>Taskify (built using typescript)</h1>
-            <p>A website for setting tasks</p>
+            <h1>Merce (built using typescript)</h1>
+            <p>A website buying and renting apartments(in progress)</p>
             <div className="btn-wrapper">
               <a
                 className="project-btn-a"
-                href="https://mern-typescript.vercel.app/"
+                href="https://realestate-eight-green.vercel.app/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -72,7 +73,7 @@ function Projects() {
               </a>
               <a
                 className="project-btn-a"
-                href="https://github.com/semz-ui/mern-typescript"
+                href="https://github.com/semz-ui/realestate"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -128,6 +129,45 @@ function Projects() {
             data-aos-duration="1000"
           >
             <img className="project-img" src={project3} alt="project 3 image" />
+          </div>
+        </div>
+        <div
+          className="project-wrapper"
+          data-aos="fade-right"
+          data-aos-duration="2000"
+        >
+          <div className="project-description">
+            <h1>Goal Mern Stack (React Native)</h1>
+            <p>A replica of the site using react native</p>
+            <div className="btn-wrapper">
+              <a
+                className="project-btn-a"
+                href="https://expo.dev/accounts/semz/projects/todoApp/updates/8a9d6791-fffe-43c9-92fe-703e260010bc"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button className="project-btn">Live</button>
+              </a>
+              <a
+                className="project-btn-a"
+                href="https://github.com/semz-ui/NativeTodoApp.git"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button className="project-btn">github</button>
+              </a>
+            </div>
+          </div>
+          <div
+            className="project-img-cnt"
+            data-aos="flip-right"
+            data-aos-duration="1000"
+          >
+            <img
+              className="project-img1"
+              src={project3a}
+              alt="project 3 image"
+            />
           </div>
         </div>
         <div

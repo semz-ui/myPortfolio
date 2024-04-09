@@ -314,6 +314,12 @@ nav {
   border-radius: 6px;
   object-fit: contain;
 }
+.project-img1 {
+  width: 300px;
+  height: 50%;
+  border-radius: 6px;
+  object-fit: contain;
+}
 
 /* Footer Styles   */
 footer {
