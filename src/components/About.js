@@ -67,6 +67,10 @@ function About() {
               <BsBootstrapFill style={{ color: "#6d28d9" }} />
               <SiNetlify style={{ color: "#00C7B7" }} />
               <SiHeroku style={{ color: "#6762a6" }} />
+              <img
+                src="https://vitest.dev/logo-shadow.svg"
+                style={{ width: "100px", height: "100px" }}
+              />
             </IconContext.Provider>
           </div>
         </div>

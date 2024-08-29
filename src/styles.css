@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 /* Header styles */
@@ -137,7 +137,7 @@ nav {
 }
 
 .about--text-cnt h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 3rem;
   letter-spacing: 4px;
   word-spacing: 6px;
@@ -265,7 +265,7 @@ nav {
 }
 
 .project-description h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 2.5rem;
   letter-spacing: 2px;
   font-weight: 400;
@@ -297,6 +297,7 @@ nav {
   font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 
 .project-btn:hover {
